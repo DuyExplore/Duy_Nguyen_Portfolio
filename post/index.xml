@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Duy Nguyen</title>
+    <link>https://duyexplore.github.io/Duy_Nguyen_Portfolio/post/</link>
+    <description>Recent content in Projects on Duy Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://duyexplore.github.io/Duy_Nguyen_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6: Scrape LinkedIn Data</title>
+      <link>https://duyexplore.github.io/Duy_Nguyen_Portfolio/post/chapter-6/</link>
+      <pubDate>Tue, 03 May 2022 16:00:59 -0400</pubDate>
+      
+      <guid>https://duyexplore.github.io/Duy_Nguyen_Portfolio/post/chapter-6/</guid>
+      <description>Create bot scrape data from LinkedIn Interactive with Webdriver of Selenium Locate the element of the web Automatically fill data in the csv file    This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Titanic</title>
+      <link>https://duyexplore.github.io/Duy_Nguyen_Portfolio/post/chapter-5/</link>
+      <pubDate>Sat, 30 Apr 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://duyexplore.github.io/Duy_Nguyen_Portfolio/post/chapter-5/</guid>
+      <description>Clean and Encode data from Kaggle Hypothesis and Prove the Hypothesis about survival rate Find Correlation between survival rate and figures Machine learning to estimate the survival rate    This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Movie Data Analysis</title>
+      <link>https://duyexplore.github.io/Duy_Nguyen_Portfolio/post/chapter-4/</link>
+      <pubDate>Mon, 25 Apr 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://duyexplore.github.io/Duy_Nguyen_Portfolio/post/chapter-4/</guid>
+      <description>Data cleaning from Kaggle Create correlation board between gross and different figures Hypothesize and prove it through board and query    This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Sale Report</title>
+      <link>https://duyexplore.github.io/Duy_Nguyen_Portfolio/post/chapter-3/</link>
+      <pubDate>Wed, 20 Apr 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://duyexplore.github.io/Duy_Nguyen_Portfolio/post/chapter-3/</guid>
+      <description>Implement query by JupyterNotebook Clean data by Python query (Numpy, Pandas) Find the best seller product Data Visualization by Matplotlib of Python    This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Covid Pandemic</title>
+      <link>https://duyexplore.github.io/Duy_Nguyen_Portfolio/post/chapter-2/</link>
+      <pubDate>Sun, 17 Apr 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://duyexplore.github.io/Duy_Nguyen_Portfolio/post/chapter-2/</guid>
+      <description>Clean data by SQL query Build Dashboard about current Covid-19 situation Predict the future situation    This Project’s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Nashville House</title>
+      <link>https://duyexplore.github.io/Duy_Nguyen_Portfolio/post/chapter-1/</link>
+      <pubDate>Thu, 14 Apr 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://duyexplore.github.io/Duy_Nguyen_Portfolio/post/chapter-1/</guid>
+      <description>Cleaning the raw data download from the website. Using SQL to create procedure to insert the data follow the rule of data structure. Update table from the long address to short address such as state and city. Delete unused table from database. Find and elminate all data is null from the database. Eliminate the redundant data from owneraddress table.    #This Project’s GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
